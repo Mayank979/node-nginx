@@ -4,4 +4,4 @@
 
 ## Pre-Requisite: Install docker and docker compose and start docker
 
-# docker compose up --build -d --scale nodeapp=${no. of docker containers to run}
+#### docker compose up --build -d --scale nodeapp=${no. of docker containers to run}
